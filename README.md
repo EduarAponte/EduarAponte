@@ -1,9 +1,13 @@
 ## Olá! eu sou Eduar Aponte 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduaraponte8@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduar-alejandro-aponte-hernandez-4306871aa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu.ar31/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQmEVT0Cj2UsqLdjZJzQ-FA)
+<div>
+<a href="mailto:eduaraponte8@gmail.com"><img align="center" alt="HTML5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduar-alejandro-aponte-hernandez-4306871aa/"><img align="center" alt="HTML5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " target="_blank"></a>
+<a href="https://www.instagram.com/edu.ar31/"><img align="center" alt="HTML5" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCQmEVT0Cj2UsqLdjZJzQ-FA"><img align="center" alt="HTML5" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+</div>
+<br>
 
 ![Eduar GitHub stats](https://github-readme-stats.vercel.app/api?username=EduarAponte&show_icons=true&theme=tokyonight)
 
