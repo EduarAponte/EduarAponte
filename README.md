@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduar-alejandro-aponte-hernandez-4306871aa/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu.ar31/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQmEVT0Cj2UsqLdjZJzQ-FA)
+
 ![Eduar GitHub stats](https://github-readme-stats.vercel.app/api?username=EduarAponte&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
