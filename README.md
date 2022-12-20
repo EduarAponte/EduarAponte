@@ -1,4 +1,4 @@
-### Olá! eu sou Eduar Aponte 👋
+## Olá! eu sou Eduar Aponte 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduaraponte8@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduar-alejandro-aponte-hernandez-4306871aa/)
@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduarAponte&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-Apaxonado pela tecnologia, estudante de Ciência da computação.
+Apaixonado pela tecnologia, estudante de Ciência da computação.
 
 ## Últimos video:
 - [Não disponível, site em construção](link)<br>
