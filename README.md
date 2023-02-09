@@ -38,21 +38,21 @@
     <div style="width:200px;margin: 0 10px;">
         <a href="https://youtu.be/iEHLG1osEIA" target="_blank">
         <img src="assets/to_readme/playCard.png" 
-        alt="Assistir Tutorial no YouTube" style="margin: 0 8px; width="200px" height="200px" />
+        alt="Assistir Tutorial no YouTube" style="margin: 0 8px;" width="200px" height="200px" />
         </a>
         <p style="text-align:center">Como Fazer um Cartão com Efeito Animado</p>
     </div>
     <div style="width:200px;margin: 0 10px;">
         <a href="https://youtu.be/rIq0xpRB9vY" target="_blank">
         <img src="assets/to_readme/playLogin.png" 
-        alt="Assistir Tutorial no YouTube" style="margin: 0 8px; width="200px" height="200px" />
+        alt="Assistir Tutorial no YouTube" style="margin: 0 8px;" width="200px" height="200px" />
         </a>
         <p style="text-align:center">Como fazer um Formulário de login animado</p>
     </div>
     <div style="width:200px;margin: 0 10px;">
         <a href="https://youtu.be/598xAcAEhOE" target="_blank">
         <img src="assets/to_readme/playMenu.png" 
-        alt="Assistir Tutorial no YouTube" style="margin: 0 8px; width="200px" height="200px" />
+        alt="Assistir Tutorial no YouTube" style="margin: 0 8px;" width="200px" height="200px" />
         </a>
         <p style="text-align:center">Como fazer Menu Suspenso Usando HTML CSS e Javascript</p>
     </div>
